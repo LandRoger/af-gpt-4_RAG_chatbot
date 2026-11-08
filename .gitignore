@@ -5,5 +5,4 @@ vectorstore/
 __pycache__/
 *.pyc
 *.pyo
-*.pyd   
-gemini_chatbot_app.py
+*.pyd  
