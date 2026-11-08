@@ -1,0 +1,9 @@
+.env
+myenv/
+vectorstore/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd   
+gemini_chatbot_app.py
